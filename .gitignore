@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# This project's local and environment dirs
+v-ml-nn-accurizer/
+data/
+experiment_results_grid_search_with_depth.csv
